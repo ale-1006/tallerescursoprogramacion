@@ -1,0 +1,21 @@
+html{background-color: darksalmon;
+}
+h1{
+    background-color: indianred;
+    font-family:fantasy;
+    text-align: center;
+}
+a:hover{
+    color: chartreuse;
+
+}
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: cursive;
+}
+h3{
+    font-family: cursive;
+        
+}
